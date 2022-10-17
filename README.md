@@ -17,3 +17,12 @@ DL developers should be cautious on the deployment of converted models that may:
 - perform poorly while switching from one framework to another,
 - have challenges in robust deployment, or
 - run slowly, leading to poor quality of deployed DL-based software, including DL-based software maintenance tasks, like bug prediction.
+
+Please cite our paper, published at 38th IEEE International Conference on Software Maintenance and Evolution (ICSME) 2022:
+
+`@article{openja2022empirical,
+  title={An Empirical Study of Challenges in Converting Deep Learning Models},
+  author={Openja, Moses and Nikanjam, Amin and Yahmed, Ahmed Haj and Khomh, Foutse and Ming, Zhen and others},
+  journal={arXiv preprint arXiv:2206.14322},
+  year={2022}
+}`
